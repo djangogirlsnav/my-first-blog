@@ -1,0 +1,4 @@
+git init
+Initialized empty Git repository in ~/djangogirls/.git/
+git config --global user.name djangogirls
+git config --global user.email jsr.navneet1@gmail.com
